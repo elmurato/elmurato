@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**elmurato/elmurato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏠 Smart Home Enthusiast | 🛠️ Tinkerer | 🎮 Gamer | ☕ Coffee Addict
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📉 **Uptime**: 3 days without a Zigbee light dropping off.
+
+🛠️ **Projects**: 42 started, 0 finished.
+
+🎯 **Life Goal**: Pulling the perfect espresso shot.
+
+🎮 **Escape Route**: Steam.
+
+---
+
+### My Home Assistant Integrations
+- [Minecraft Server](https://www.home-assistant.io/integrations/minecraft_server/)
+- [Pterodactyl](https://www.home-assistant.io/integrations/pterodactyl/)
